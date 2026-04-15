@@ -21,6 +21,7 @@ This document contains information about how these skills were generated and how
 ```
 skills/
 ├── GENERATION.md               # This file
+├── STYLE_GUIDE.md              # Style guide : IF YOU ARE AGENT, MAKE SURE YOU REFERT THIS STYLE_GUIDE
 └── slidev/
     ├── SKILL.md                # Table-based reference to all features
     └── references/             # Agent-optimized reference files
